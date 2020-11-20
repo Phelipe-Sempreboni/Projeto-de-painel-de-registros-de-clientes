@@ -14,8 +14,6 @@
 ![tela_consultar_geral_dados](https://user-images.githubusercontent.com/57469401/99765835-a9836900-2ade-11eb-9747-de6e3d43b1e5.png)
 ![tela_consulta_por_nome_dados](https://user-images.githubusercontent.com/57469401/99765839-abe5c300-2ade-11eb-8844-7300caa6e3a2.png)
 ![tela_sair](https://user-images.githubusercontent.com/57469401/99765841-ae481d00-2ade-11eb-8f3d-40cf7dd92cce.png)
-![tela_script_python](https://user-images.githubusercontent.com/57469401/99765850-b1430d80-2ade-11eb-8dac-95a06dc6f11c.png)
-![tela_script_sql](https://user-images.githubusercontent.com/57469401/99765853-b30cd100-2ade-11eb-9869-d72721e4f185.png)
 
 ---
 
